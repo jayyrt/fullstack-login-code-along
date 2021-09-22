@@ -9,6 +9,7 @@
     "express": "^4.16.4",
     "express-session": "^1.15.6",
     "massive": "^5.7.2",
+    "nodemon": "^2.0.12",
     "react": "^16.7.0",
     "react-dom": "^16.7.0",
     "react-scripts": "2.1.2"
